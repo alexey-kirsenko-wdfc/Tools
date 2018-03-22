@@ -56,3 +56,4 @@ _temp
 *.nupkg
 *.stderr
 *.stdout
+.vs/
